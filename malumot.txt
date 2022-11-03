@@ -1,0 +1,4 @@
+Ism: Maqsadbek | Familiya: Ibrohimjonov | Parol: 123456
+Ism: Xalilillo | Familiya: Ibrohimov | Parol: 123456789
+Ism: Nurmuhammad | Familiya: Jumaboev | Parol: 1234567890
+Ismingiz: Asdasdas | Familiyangiz: Dasdas | Parolingiz: asd
